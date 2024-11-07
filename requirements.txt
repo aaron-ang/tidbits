@@ -1,7 +1,7 @@
-aiohttp==3.10.2
+aiohttp==3.10.10
 anthropic==0.21.3
 asyncio==3.4.3
-curl-cffi==0.7.0
+curl-cffi==0.7.3
 email-validator==2.1.1
 fake-useragent==1.5.1
 fastapi==0.110.0
